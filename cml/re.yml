@@ -1,0 +1,5 @@
+type: static-library
+name: cml
+
+deps:
+  - github:zwalloc/ulib ^1.0.0

@@ -1,0 +1,7 @@
+type: project
+name: cml-project
+
+inherit-caller-in-deps: true
+
+cxxenv.msvc:
+  cxx-standard: latest
